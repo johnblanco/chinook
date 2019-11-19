@@ -21,7 +21,7 @@ Dado un empleado se muestra:
 * cuales son sus clientes
 
 Autenticacion
-* los clientes podran registrarse un usuario / contrasenia para realizar compras
+* los clientes podran registrarse un usuario / contrasenia para realizar compras [link](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4)
 
 Compra de canciones:
 * los clientes que iniciaron sesion podran agregar canciones a su carrito
